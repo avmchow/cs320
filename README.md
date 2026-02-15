@@ -1,1 +1,1 @@
-# cs320
+# Repository for git setup, Ava Chow
